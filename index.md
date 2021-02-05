@@ -12,7 +12,7 @@ Finally on Saturday this week, two Cyclones on land are going to leave.
 
 [Still don't know](https://previews.123rf.com/images/m4estr0/m4estr01802/m4estr0180200005/95369304-romantic-tandem-bicycle-with-balloons-happy-valentines-day-.jpg)
 
-![Workcation_Riddle](workcation.png)
+![Workcation_Riddle](./workcation.png)
 
 [Still don't know?](https://www.eatonworkshop.com/hotel/hong-kong)
 
